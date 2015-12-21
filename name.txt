@@ -4,4 +4,3 @@ abc
 xyz
 this commit is on the master
 another commit
-for one more commit
